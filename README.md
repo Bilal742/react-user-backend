@@ -9,7 +9,7 @@ It allows you to **fetch, create, update, and delete users** through RESTful API
 
 ## 🧩 Features
 
-✅ Fetch all users  
+✅ Fetch all users   
 ➕ Add new users  
 ✏️ Update user details  
 ❌ Delete users  
